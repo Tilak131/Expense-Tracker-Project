@@ -1,9 +1,6 @@
 
 # Expense Management System using MERN Stack
 
-### Live Website:
-
-### Vercel Link: 
 
 ## Project Description:
 
