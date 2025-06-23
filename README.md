@@ -112,7 +112,7 @@ Start the frontend server
 Start the backend server
 
 ```bash
-  npm run dev
+  npm start
 ```
 
 ## Environment Variables
